@@ -23,7 +23,7 @@
 ## 📬 Connect With Me
 - 💼 [LinkedIn](https://linkedin.com/in/shivangi-chaudhary-04ab7821a)
 - 💻 [GitHub](https://github.com/shivangichaudhary)
-- 📧 Email: [shivangi2021@vitbhopal.ac.in](mailto:shivangi2021@vitbhopal.ac.in)
+- 📧 Email: [shivangichaudhary1927@gmail.com](mailto:shivangichaudhary1927@gmail.com)
 
 ---
 
