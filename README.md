@@ -1,9 +1,6 @@
 # 👋 Hi there! I'm Shivangi Chaudhary
 
 🎓 **B.Tech in Computer Science and Engineering**  
-📍 **VIT Bhopal University** | **Current CGPA:** 7.66/10  
-🌟 **Hackerrank Achievements:** 4⭐ Problem Solving (Python), 3⭐ SQL  
-
 ---
 
 ## 🛠️ Technical Skills
@@ -24,7 +21,6 @@
 ---
 
 ## 📬 Connect With Me
-- 🌐 [Portfolio Website](https://shivangichaudhary.github.io)
 - 💼 [LinkedIn](https://linkedin.com/in/shivangi-chaudhary-04ab7821a)
 - 💻 [GitHub](https://github.com/shivangichaudhary)
 - 📧 Email: [shivangi2021@vitbhopal.ac.in](mailto:shivangi2021@vitbhopal.ac.in)
