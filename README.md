@@ -1,5 +1,4 @@
 # 👋 Hi there! I'm Shivangi Chaudhary
-
 🎓 **B.Tech in Computer Science and Engineering**  
 ---
 
