@@ -14,7 +14,7 @@
 ## 📊 GitHub Stats
 
 ![Shivangi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivangichaudhary&show_icons=true&theme=radical&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shivangichaudhary)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/shivangichaudhary)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivangichaudhary&layout=compact&theme=radical&hide_border=true)
 
 ---
