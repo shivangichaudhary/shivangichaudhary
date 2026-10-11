@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Shivangi Chaudhary
-🎓 **B.Tech in Computer Science and Engineering**  
+🎓 **M.Tech in Computer Science and Engineering**  
 ---
 
 ## 🛠️ Technical Skills
